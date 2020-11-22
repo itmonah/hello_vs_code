@@ -1,0 +1,23 @@
+body {
+  font-size: 20 px;
+  width: 960px;
+  height: 220px;
+  text-align: center;
+}
+
+body div {
+  font-size: 25 px;
+  background-color: pink;
+}
+
+body h1 {
+  background-color: rgba(56, 194, 114, 0.973);
+  padding: 40px;
+  color: green;
+  font-size: 76px;
+  padding: 5px 6px 17px 18px;
+}
+
+address {
+  display: inline-block;
+}
