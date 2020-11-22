@@ -1,0 +1,24 @@
+@import "_header.scss";
+
+body{
+	font-size: 20 px;
+	width: 960px;
+	height: 200px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+
+	div{
+		font-size: 30 px;
+		background-color: pink;
+	}
+	
+	h1{
+		background-color: rgba(56, 194, 114, 0.973);
+		padding: 40px;
+		color: green;
+		font-size: 61px;
+	}
+}
+address {
+	display: inline-block;
+}
